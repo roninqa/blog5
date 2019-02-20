@@ -1,4 +1,4 @@
-baseURL                   = "https://example.com"
+baseURL                   = "https://roninqa.github.io/blogtest2/"
 builddrafts                = false
 languageCode               = "zn-Hans"
 canonifyurls               = true
